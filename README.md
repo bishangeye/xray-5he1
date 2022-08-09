@@ -1,1 +1,1 @@
-# xray-5he1
+﻿[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bishangeye/xray-5he1.git)
